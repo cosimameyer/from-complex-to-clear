@@ -14,6 +14,6 @@
 
 ## About the data
 
-For this workshop, we work with data on social media sentiments, provided by [Kaggle](https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset/data). The data can be downloaded directly from Kaggle or accessed in the `data/` folder here.
+For this workshop, we work with data on social media sentiments, provided by [Kaggle](https://www.kaggle.com/datasets/marklvl/sentiment-labelled-sentences-data-set). The data can be downloaded directly from Kaggle or accessed in the `data/` folder here.
 
 

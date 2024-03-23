@@ -13,8 +13,17 @@
 <!-- - [Jupyter notebook](https://github.com/cosimameyer/r-python-talk/blob/main/PythonistR_WiDS_2023_Workshop.ipynb)
 -->
 
-## About the data
+## About the Data
 
 For this workshop, we work with data on social media sentiments, provided by [Kaggle](https://www.kaggle.com/datasets/marklvl/sentiment-labelled-sentences-data-set). The data can be downloaded directly from Kaggle or accessed in the `data/` folder here.
+
+## Other Resources
+- Küpfer & Meyer 2023: [BERT and XAI](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/bert-explainable-ai/) (blog post)
+- [Captum Framework](https://captum.ai/docs/algorithms_comparison_matrix)
+- [Transformers Interpret](https://github.com/cdpierse/transformers-interpret)
+- [Huggingface: Tasks](https://huggingface.co/tasks)
+- [Huggingface: Tutorials](https://huggingface.co/course/chapter1/1)
+- [Using both Python and R](https://github.com/cosimameyer/r-python-talk)
+- [Data illustrations](https://github.com/cosimameyer/illustrations)
 
 

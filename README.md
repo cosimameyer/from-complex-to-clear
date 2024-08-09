@@ -1,12 +1,22 @@
 # From Complex to Clear: Understanding Your NLP Model
 
+## 2024-08 Workshop
+
+![]()
+
+📍 Remote
+
+### Material
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRIiz8zg7VqKtK62h4VCGPXNGJ5KP8td858o0VQEMcSTWv-esYgQlVY7dBxB8J4xa6A7mIxPitj6lGT/pub?start=false&loop=false&delayms=3000)
+- [Google Colab (sandbox mode)]()
+
+## 2024-03 Workshop @ R-Ladies Abuja
+
 ![](https://cosimameyer.com/images/talks/from_complex_to_clear.png)
 
 📍 R-Ladies Abuja (virtual)
 
--------
-
-## Material 
+### Material 
 
 - [Slides](https://bit.ly/complex-to-clear-slides-2024)
 - [Google Colab (sandbox mode)](https://colab.research.google.com/drive/1K1fvclLZBrN8W_WdjDmKIYypIxVbDKpC?usp=sharing#offline=true&sandboxMode=true)

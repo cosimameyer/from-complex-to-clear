@@ -2,7 +2,7 @@
 
 ## 2024-08 Workshop
 
-![]()
+<img width="1081" alt="image" src="https://github.com/user-attachments/assets/b6a4caee-f727-4efd-b170-2f02d64d61ee">
 
 📍 Remote
 

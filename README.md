@@ -8,7 +8,7 @@
 
 ### Material
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRIiz8zg7VqKtK62h4VCGPXNGJ5KP8td858o0VQEMcSTWv-esYgQlVY7dBxB8J4xa6A7mIxPitj6lGT/pub?start=false&loop=false&delayms=3000)
-- [Google Colab (sandbox mode)]()
+- [Google Colab (sandbox mode)](https://colab.research.google.com/drive/1s2Cabl_G_4kuLdBzFQfP8bD7c8maW-Zm?usp=sharing#offline=true&sandboxMode=true)
 
 ## 2024-03 Workshop @ R-Ladies Abuja
 

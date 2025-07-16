@@ -10,6 +10,14 @@
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQDHLuCf82h9cnHlkn7gMyzPylR_AYInSwsbbuKS_DKDoyD2E6yh7NJQLCy-qIVtP_IpovScv5unSjC/pub?start=false&loop=false&delayms=3000)
 - [Google Colab (sandbox mode)](https://colab.research.google.com/drive/1za0YzyIZUjUNPA5DH6FiSK2LU1QLDkuJ?usp=sharing#offline=true&sandboxMode=true)
 
+
+
+
+<details>
+
+<summary>Past Workshops </summary>
+
+
 ## 2024-08 Workshop @ University of Essex
 
 <img width="1081" alt="image" src="https://github.com/user-attachments/assets/b6a4caee-f727-4efd-b170-2f02d64d61ee">
@@ -30,8 +38,9 @@
 
 - [Slides](https://bit.ly/complex-to-clear-slides-2024)
 - [Google Colab (sandbox mode)](https://colab.research.google.com/drive/1K1fvclLZBrN8W_WdjDmKIYypIxVbDKpC?usp=sharing#offline=true&sandboxMode=true)
-<!-- - [Jupyter notebook](https://github.com/cosimameyer/r-python-talk/blob/main/PythonistR_WiDS_2023_Workshop.ipynb)
--->
+
+</details>
+
 
 ## About the Data
 

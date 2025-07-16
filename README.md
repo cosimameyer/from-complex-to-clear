@@ -1,5 +1,15 @@
 # From Complex to Clear: Understanding Your NLP Model
 
+## 2025-07 Workshop
+
+<img width="1079" height="605" alt="image" src="https://github.com/user-attachments/assets/da892ce1-0d23-43b7-9a08-28b84218df13" />
+
+📍 Remote
+
+### Material
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQDHLuCf82h9cnHlkn7gMyzPylR_AYInSwsbbuKS_DKDoyD2E6yh7NJQLCy-qIVtP_IpovScv5unSjC/pub?start=false&loop=false&delayms=3000)
+- [Google Colab (sandbox mode)](https://colab.research.google.com/drive/1za0YzyIZUjUNPA5DH6FiSK2LU1QLDkuJ?usp=sharing#offline=true&sandboxMode=true)
+
 ## 2024-08 Workshop @ University of Essex
 
 <img width="1081" alt="image" src="https://github.com/user-attachments/assets/b6a4caee-f727-4efd-b170-2f02d64d61ee">

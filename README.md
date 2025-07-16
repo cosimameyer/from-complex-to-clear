@@ -1,6 +1,6 @@
 # From Complex to Clear: Understanding Your NLP Model
 
-## 2024-08 Workshop
+## 2024-08 Workshop @ University of Essex
 
 <img width="1081" alt="image" src="https://github.com/user-attachments/assets/b6a4caee-f727-4efd-b170-2f02d64d61ee">
 
